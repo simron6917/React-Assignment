@@ -9,6 +9,7 @@ import EventScreen from './screens/EventScreen'
 import MangaScreen from './screens/MangaScreen'
 import CommunityScreen from './screens/CommunityScreen'
 import NewsScreen from './screens/NewsScreen'
+import LearnMoreScreen from './screens/LearnMoreScreen'
 
 
 
@@ -22,6 +23,8 @@ function App() {
 <Route path='/community' component={CommunityScreen} />
 <Route path='/manga' component={MangaScreen} />
 <Route path='/event' component={EventScreen} />
+<Route path='/more' component={LearnMoreScreen} />
+
 
 
   </Router>
