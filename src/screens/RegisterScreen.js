@@ -8,7 +8,7 @@ const RegisterScreen = () => {
         <FormContainer>
         <br /> <br />
           <h2 style={{textAlign:'center'}}><b>Sign Up!!!</b> </h2> 
-          <h6 style={{textAlign:'center'}}><b>( You can register here )</b> </h6> 
+          <h6 style={{textAlign:'center'}}><b>( You can register here ...)</b> </h6> 
 
              <Form>
                  <Form.Group controlId='name'>
