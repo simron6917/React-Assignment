@@ -9,9 +9,9 @@ body {
 .footer{
 /* ©2020 All Rights Reserved. Next Entertainment. Handcrafted by Featherwebs */
 position: absolute;
-width: 800px;
+width: 480px;
 height: 22px;
-left: 300px;
+left: 480px;
 top: 2890px;
 margin-bottom: 10px;
 
@@ -43,7 +43,7 @@ background: #FF8C42;
 .bottom-div-one{
   /* Interactive Contests, Games and Live Giveaways */
 position: absolute;
-width: 400px;
+width: 346px;
 height: 19px;
 left: 547px;
 top: 80px;
@@ -68,7 +68,7 @@ color: #FFFFFF;
 width: 862px;
 height: 100px;
 left: 289px;
-top: 115px;
+top: 95px;
 
 font-family: Ubuntu;
 font-style: normal;
@@ -93,13 +93,10 @@ width: 286px;
 height: 54px;
 left: 577px;
 top: 270px;
-background-color: #FFFFFF;
+background: #FFFFFF;
 border: none;
 box-shadow: 0px 2px 0px rgba(0, 0, 0, 0.043);
 border-radius: 2px;
-}
-.button:hover{
-  text-decoration: none;
 }
 
 .button-text{
@@ -107,7 +104,7 @@ border-radius: 2px;
 
 
 position: static;
-width: 180px;
+width: 134px;
 height: 22px;
 left: 76px;
 top: 16px;
@@ -139,9 +136,9 @@ margin: 0px 0px;
 
 .div-one{
   position: absolute;
-width: 200px;
+width: 146px;
 height: 19px;
-left: 630px;
+left: 647px;
 top: 2119px;
 
 font-family: Roboto;
@@ -208,14 +205,14 @@ background: rgba(255, 218, 188, 0.33);
 /* Interactive Contests, Games and Live Giveaways */
 
 position: absolute;
-width: 400px;
+width: 346px;
 height: 19px;
-left: 520px;
-top: 45px;
+left: 547px;
+top: 22px;
 
 font-family: Roboto;
 font-style: normal;
-font-weight: bold;
+font-weight: 500;
 font-size: 16px;
 line-height: 19px;
 /* identical to box height */
@@ -231,7 +228,7 @@ color: rgba(0, 0, 0, 0.5);
 width: 862px;
 height: 100px;
 left: 289px;
-top: 55px;
+top: 20px;
 
 font-family: Ubuntu;
 font-style: normal;
@@ -248,8 +245,8 @@ color: #FF3C38;
   position: absolute;
 width: 325px;
 height: 413px;
-left: 60px;
-top: 182px;
+left: 234px;
+top: 178px;
 
 border: 1px solid #D9D9D9;
 box-sizing: border-box;
@@ -259,8 +256,8 @@ border-radius: 4px;
   position: absolute;
 width: 198px;
 height: 197px;
-left: 125px;
-top: 182px;
+left: 590px;
+top: 178px;
 
 border: 1px solid #D9D9D9;
 box-sizing: border-box;
@@ -270,8 +267,8 @@ border-radius: 4px;
   position: absolute;
 width: 197px;
 height: 197px;
-left: 130px;
-top: 182px;
+left: 804px;
+top: 178px;
 
 border: 1px solid #D9D9D9;
 box-sizing: border-box;
@@ -281,8 +278,8 @@ border-radius: 4px;
   position: absolute;
 width: 197px;
 height: 197px;
-left: 140px;
-top: 182px;
+left: 1018px;
+top: 178px;
 
 border: 1px solid #D9D9D9;
 box-sizing: border-box;
@@ -292,8 +289,8 @@ border-radius: 4px;
   position: absolute;
 width: 198px;
 height: 197px;
-left: 125px;
-top: 397px;
+left: 590px;
+top: 393px;
 
 border: 1px solid #D9D9D9;
 box-sizing: border-box;
@@ -303,8 +300,8 @@ border-radius: 4px;
   position: absolute;
 width: 197px;
 height: 197px;
-left: 130px;
-top: 397px;
+left: 804px;
+top: 393px;
 
 border: 1px solid #D9D9D9;
 box-sizing: border-box;
@@ -314,8 +311,8 @@ border-radius: 4px;
   position: absolute;
 width: 197px;
 height: 197px;
-left: 140px;
-top: 397px;
+left: 1018px;
+top: 393px;
 
 border: 1px solid #D9D9D9;
 box-sizing: border-box;
@@ -326,61 +323,61 @@ border-radius: 4px;
 /* vector */
 .vector{
 position: absolute;
-left: 53.84%;
+left: 54.84%;
 right: 48.45%;
-top: 138.59%;
-bottom: 70.77%;
+top: 128.59%;
+bottom: 72.77%;
 /* transform: rotate(180deg); */
 
 }
 
 .vector-opp{
   position: absolute;
-left: 56.14%;
+left: 57.14%;
 right: 48.15%;
-top: 138.59%;
-bottom: 70.77%;
+top: 128.59%;
+bottom: 72.77%;
 filter: grayscale(100%);
 transform: rotate(180deg);
 }
 
 
-
-/* event contents */
+/* eventt contents */
 .row1{
   position: absolute;
-width: 533px;
+width: 524px;
 height: 169px;
-left: 245px;
-top: 93px;
+left: 225px;
+top: 727px;
 background-color:#ECECEC;
 border-radius: 4px;
 }
 .row2{
   position: absolute;
-width: 533px;
+width: 524px;
 height: 169px;
-left:245px;
-top: 272px;
+left: 225px;
+top: 908px;
 background-color:#ECECEC;
 border-radius: 4px;
 }
 .row3{
   position: absolute;
-width: 533px;
+width: 524px;
 height: 169px;
-left: 245px;
-top: 455px;
+left: 225px;
+top: 1088px;
 background-color:#ECECEC;
 border-radius: 4px;
 }
 .p1{
   /* Ani Dance Competition */
+
 position: absolute;
-width: 300px;
+width: 258px;
 height: 29px;
-/* left: 0px; */
-top: 15px;
+left: 175px;
+top: 10px;
 
 font-family: Roboto;
 font-style: normal;
@@ -389,14 +386,17 @@ font-size: 25px;
 line-height: 29px;
 display: flex;
 align-items: center;
+
 color: #000000;
+
 }
 .p2{
   position: absolute;
-width: 350px;
+width: 314px;
 height: 65px;
-/* left: 0px; */
-top: 65px;
+left: 178px;
+top: 60px;
+
 font-family: Roboto;
 font-style: normal;
 font-weight: normal;
@@ -404,14 +404,15 @@ font-size: 16px;
 line-height: 19px;
 display: flex;
 align-items: center;
+
 color: rgba(0, 0, 0, 0.65);
 }
 .p3{
   position: absolute;
-width: 300px;
+width: 267px;
 height: 29px;
-/* left: 2px; */
-top: 15px;
+left: 175px;
+top: 10px;
 
 font-family: Roboto;
 font-style: normal;
@@ -427,8 +428,8 @@ color: #000000;
   position: absolute;
 width: 314px;
 height: 65px;
-/* left: 5px; */
-top: 65px;
+left: 178px;
+top: 60px;
 
 font-family: Roboto;
 font-style: normal;
@@ -440,12 +441,12 @@ align-items: center;
 
 color: rgba(0, 0, 0, 0.65);
 }
- .p5{
+.p5{
   position: absolute;
-width: 300px;
+width: 267px;
 height: 29px;
-/* left: 2px; */
-top: 15px;
+left: 175px;
+top: 10px;
 
 font-family: Roboto;
 font-style: normal;
@@ -461,8 +462,8 @@ color: #000000;
   position: absolute;
 width: 360px;
 height: 65px;
-/* left: 5px; */
-top: 65px;
+left: 178px;
+top: 60px;
 
 font-family: Roboto;
 font-style: normal;
@@ -501,14 +502,14 @@ border-radius: 4px;
 
 .col-p1{
   position: absolute;
-width: 200px;
+width: 162px;
 height: 19px;
-left: 180px;
-top: 180px;
+left: 808px;
+top: 795px;
 
 font-family: Roboto;
 font-style: normal;
-font-weight: bold;
+font-weight: 500;
 font-size: 16px;
 line-height: 19px;
 /* identical to box height */
@@ -522,8 +523,8 @@ color: rgba(0, 0, 0, 0.5);
   position: absolute;
 width: 410px;
 height: 44px;
-left: 180px;
-top: 210px;
+left: 805px;
+top: 800px;
 
 font-family: Ubuntu;
 font-style: normal;
@@ -537,11 +538,11 @@ align-items: center;
 color: #EB6108;
 }
 .col-p3{
-position: absolute;
+  position: absolute;
 width: 384px;
 height: 93px;
-left: 180px;
-top: 280px;
+left: 808px;
+top: 900px;
 
 font-family: Roboto;
 font-style: normal;
@@ -563,19 +564,16 @@ padding: 12px 16px;
 position: absolute;
 width: 189px;
 height: 46px;
-left: 185px;
-top: 405px;
+left: 809px;
+top: 1036px;
 border: none;
-background: #FF3C38 ;
+background: #FF3C38;
 box-shadow: 0px 2px 0px rgba(0, 0, 0, 0.043);
 border-radius: 2px;
 }
-.button-event:hover{
-  text-decoration: none;
-}
 .button-p{
   position: static;
-width: 200px;
+width: 134px;
 height: 22px;
 left: 27.5px;
 top: 12px;
@@ -609,7 +607,7 @@ margin: 0px 0px;
   position: absolute;
 width: 127px;
 height: 41px;
-left: 238px;
+left: 221px;
 top: 51px;
 
 font-family: Ubuntu;
@@ -626,30 +624,18 @@ color: #FF8C42;
   color: #000000;
 }
 .top-img{
-  position: relative;
+  position: absolute;
 width: 580px;
 height: 387px;
-left: 650px;
+left: 643px;
 top: 193px;
 border-radius: 5px;
-z-index: 1;
-}
-
-/* play button */
-.play{
-  position: absolute;
-left: 143.25%;
-right: 60.25%;
-top: 52.50%;
-bottom: 6.25%;
-z-index: 1;
-/* background: #FF3C38; */
 }
 .top-p1{
   position: absolute;
-width: 425px;
+width: 365px;
 height: 19px;
-left: 230px;
+left: 221px;
 top: 204.08px;
 
 font-family: Roboto;
@@ -668,7 +654,7 @@ color: rgba(0, 0, 0, 0.5);
   position: absolute;
 width: 410px;
 height: 88px;
-left: 230px;
+left: 218px;
 top: 230px;
 
 font-family: Ubuntu;
@@ -683,9 +669,9 @@ color: #EB6108;
 }
 .top-p3{
   position: absolute;
-width: 420px;
+width: 384px;
 height: 93px;
-left: 230px;
+left: 221px;
 top: 345px;
 
 font-family: Roboto;
@@ -697,33 +683,34 @@ display: flex;
 align-items: center;
 
 color: rgba(0, 0, 0, 0.5);
+
 }
 .top-col2{
   position: absolute;
 width: 661px;
 height: 690px;
-left: 160px;
+left: 778px;
 top: 0px;
 
 background: #FF8C42;
 }
 .top-col2-p{
-  position: relative;
+  position: absolute;
+width: 351px;
 height: 22px;
+left: 30px;
 top: 40px;
-
 font-family: Roboto;
 font-style: normal;
 font-weight: bold;
 font-size: 16px;
 line-height: 22px;
 /* identical to box height, or 137% */
+
 text-align: center;
+
 color: #FFFFFF;
 
-}
-.top-col2-p:hover{
-  color:#FFFFFF;
 }
 .span-p{
   padding:8px;
@@ -736,9 +723,9 @@ align-items: center;
 padding: 5px 16px;
 
 position: absolute;
-width: 180px;
+width: 166px;
 height: 32px;
-left: 235px;
+left: 218px;
 top: 472px;
 border:none;
 background: #FF3C38;
@@ -747,7 +734,7 @@ border-radius: 2px;
 }
 .top-button-p1{
   position: static;
-width: 180px;
+width: 134px;
 height: 22px;
 left: 16px;
 top: 15px;
@@ -774,19 +761,16 @@ order: 0;
 flex-grow: 0;
 margin: 0px 0px;
 }
-.top-button1:hover{
-  text-decoration: none;
-}
 .top-button2{
   display: flex;
 flex-direction: column;
 align-items: center;
-padding: 5px 20px;
+padding: 5px 16px;
 
 position: absolute;
-width: 100px;
+width: 103px;
 height: 32px;
-left: 432px;
+left: 395px;
 top: 472px;
 
 /* Neutral/1 */
@@ -802,7 +786,7 @@ border-radius: 2px;
 
 .top-button-p2{
   position: static;
-width: 100px;
+width: 71px;
 height: 22px;
 left: 16px;
 top: 5px;
@@ -830,14 +814,11 @@ flex-grow: 0;
 margin: 0px 0px;
 
 }
-.top-button2:hover {
-  text-decoration: none;
-}
 .top-image1{
   position: absolute;
 width: 129px;
 height: 37px;
-left: 238px;
+left: 217px;
 top: 532.08px;
 
 }
@@ -845,7 +826,7 @@ top: 532.08px;
   position: absolute;
 width: 61px;
 height: 61px;
-left: 396px;
+left: 366px;
 top: 520.08px;
 
 }
@@ -853,7 +834,7 @@ top: 520.08px;
   position: absolute;
 width: 126px;
 height: 67px;
-left: 477px;
+left: 447px;
 top: 520px;
 
 }
